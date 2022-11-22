@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/medongel/myrepo/issues"
   },
-  "homepage": "https://github.com/medongel/myrepo#readme"
+  "homepage": "https://github.com/medongel/myrepo#readme",
+  "publishConfig": {
+    "@medongel:registry": "https://npm.pkg.github.com"
+  }
+
 }
